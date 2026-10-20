@@ -37,4 +37,3 @@ import CslibTests.Reduction
 import CslibTests.Repeat
 import CslibTests.StatefulProcesses
 import CslibTests.Synthesis
-import CslibTests.Thompson
